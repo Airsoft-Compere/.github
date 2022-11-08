@@ -1,1 +1,1 @@
-# .github
+There's nothing public here.

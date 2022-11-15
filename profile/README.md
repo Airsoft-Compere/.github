@@ -7,5 +7,9 @@
 </h1>
 
 <p align="center">
-    <a href="https://airsoft-compere.fr/">Website / site web</a> • <a href="https://twitter.com/AirsoftCompere">Twitter</a> • <a href="https://www.facebook.com/AirsoftCompere">Facebook</a>
+    Le comparateur de prix des airsofteurs
+</p>
+
+<p align="center">
+    <a href="https://airsoft-compere.fr/">Site web</a> • <a href="https://twitter.com/AirsoftCompere">Twitter</a> • <a href="https://www.facebook.com/AirsoftCompere">Facebook</a>
 </p>

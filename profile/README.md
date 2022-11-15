@@ -1,5 +1,11 @@
+<p align="center">
+    <img src="/profile/logo.png?raw=true">
+</p>
 
-| There's nothing public here. | Il n'y a rien de public ici. |
-|------------------------------|------------------------------|
+<h1 align="center">
+    Airsoft Compère
+</h1>
 
-[Website / site web](https://airsoft-compere.fr/) • [Twitter](https://twitter.com/AirsoftCompere) • [Facebook](https://www.facebook.com/AirsoftCompere)
+<p align="center">
+    <a href="https://airsoft-compere.fr/">Website / site web</a> • <a href="https://twitter.com/AirsoftCompere">Twitter</a> • <a href="https://www.facebook.com/AirsoftCompere">Facebook</a>
+</p>

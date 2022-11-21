@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
-    <a href="https://airsoft-compere.fr/">Site web</a> • <a href="https://twitter.com/AirsoftCompere">Twitter</a> • <a href="https://www.facebook.com/AirsoftCompere">Facebook</a>
+    <a href="https://airsoft-compere.fr/">Site web</a> • <a href="https://twitter.com/AirsoftCompere">Twitter</a> • <a href="https://mastouille.fr/@AirsoftCompere">Mastodon</a> • <a href="https://www.facebook.com/AirsoftCompere">Facebook</a>
 </p>
